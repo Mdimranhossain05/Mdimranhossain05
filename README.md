@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 My Leetcode profile link: https://leetcode.com/ImranHossain1234/
 - 📫 My Hackerrank profile link: https://www.hackerrank.com/mdimranhossain01
+- 📫 My Linkedin profile: https://www.linkedin.com/in/md-imran-hossain-0447451b3/
 - 📫 You can reach me at facebook link: https://www.facebook.com/naime.imran
