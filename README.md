@@ -1,17 +1,17 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHnbnBkQMiOGQ/profile-displaybackgroundimage-shrink_350_1400/0/1662966647127?e=1668643200&v=beta&t=7V8DPL4AbQ2NOd8zjnGLGfeir8yuFF7BTZEc716pFM8"/>
 <h1 align="center">Hi 👋, I'm Md. Imran Hossain</h1>
-<h3 align="center">A passionate Programmer, Software Developer and learner</h3>
+<h3 align="center">A passionate Programmer, Web Developer and learner</h3>
 
 
-- 🔭 I’m currently working on **Web Project**
+- 🔭 I’m currently working on **MERN Web Project**
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS, MongoDB**
 
-- 👯 I’m looking to collaborate on **Web and Android App Development**
+- 👯 I’m looking to collaborate on **MERN Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mdimranhossain05](https://github.com/Mdimranhossain05)
 
-- 💬 Ask me about **Android, Flutter, Javascript, Python, Java, C**
+- 💬 Ask me about **Javascript, Python, Java, C**
 
 - 📫 How to reach me **mdimranhossain0713@gmail.com**
 
